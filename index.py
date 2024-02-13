@@ -5,3 +5,4 @@ if current_time >= datetime.strptime("00:00", "%H:%M").time() and current_time <
     print("Good morning!")
 else:
     print("Good night!")
+
